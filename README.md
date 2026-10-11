@@ -1,4 +1,4 @@
-## UPDATED: Added support for 3.5 inch CYD displays }>{{{{• >
+## UPDATED: Added support for 3.5 inch CYD displays ##
 
 ## Meet the ASCII Aquarium ><(((°> 
 <table>
