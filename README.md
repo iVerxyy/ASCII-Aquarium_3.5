@@ -1,5 +1,8 @@
 ## UPDATED: Added support for 3.5 inch CYD displays ##
 
+<img width="1280" height="960" alt="aqua " src="https://github.com/user-attachments/assets/b02068e2-d321-4149-801c-341ed92ae69b" />
+
+
 ## Meet the ASCII Aquarium ><(((°> 
 <table>
   <tr>
